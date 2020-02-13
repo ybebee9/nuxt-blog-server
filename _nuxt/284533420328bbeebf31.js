@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{180:function(n,t,e){"use strict";e.r(t);var l=e(5),component=Object(l.a)({},(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n    블로그 포스트 2 입니당\n")])}),[],!1,null,null,null);t.default=component.exports}}]);
